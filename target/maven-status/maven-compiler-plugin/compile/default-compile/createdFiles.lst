@@ -1,0 +1,16 @@
+controller\EditorialJpaController.class
+entity\Productosxventa.class
+controller\ClienteJpaController.class
+controller\ProductosxventaJpaController.class
+test\ClienteTest.class
+entity\Cliente.class
+dao\clienteDao.class
+controller\TipoProductoJpaController.class
+entity\Editorial.class
+controller\exceptions\NonexistentEntityException.class
+entity\TipoProducto.class
+controller\VentaJpaController.class
+entity\Venta.class
+entity\Producto.class
+.netbeans_automatic_build
+controller\ProductoJpaController.class
